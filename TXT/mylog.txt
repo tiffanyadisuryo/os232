@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 20 L00 General, etx.
+ZCZC W00 10 L01 SCELE related
+ZCZC W00 200 L02 CLASSROOM related
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 33 L09 Reading Assignments
+ZCZC W00 40 L05 QUIZ related including studying
+ZCZC W00 10 L09 Weekly Assignments related
+ZCZC W00 60 L15 Reading Assignments
+ZCZC W00 40 L30 Watched "Operating Systems: Visual Metaphor" at Udacity
