@@ -10,7 +10,6 @@ This video explains how and why Operating System was created to begin with. Then
 ### **Week 01**
 1. [Vim Basics](https://youtu.be/ggSyF1SVFr4?si=Kgv_VaHd0VOcjdqp)<br>
 This video explains how to edit a file in terminal using vim. It makes editing in vim a little less intimidating and a lot more fun. It can be useful for editing mylog.txt.
-<br>
 2. [60 Linux Commands](https://youtu.be/gd7BXuUQ91w?si=ns0MvPndzp0LcUWY)<br>
 This video explains the essential commands in Linux. It's pretty fast and straight to the point. If you need a quick search on how to do certain stuff using linux commands, this video is for you.
 <br>
