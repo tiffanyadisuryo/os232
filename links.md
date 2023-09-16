@@ -13,3 +13,12 @@ This video explains how to edit a file in terminal using vim. It makes editing i
 2. [60 Linux Commands](https://youtu.be/gd7BXuUQ91w?si=ns0MvPndzp0LcUWY)<br>
 This video explains the essential commands in Linux. It's pretty fast and straight to the point. If you need a quick search on how to do certain stuff using linux commands, this video is for you.
 <br>
+
+### **Week 02**
+1. [Cyber Security In 7 Minutes](https://youtu.be/inWWhr5tnEA?si=7kse4AdLcJZefLoh)<br>
+This video explains the basic terms in cyber security. It also explains the types of cyber attacks and how it happens.
+2. [The Beginner’s Guide to Digital Privacy](https://youtu.be/u8_9AQYLSbo?si=V54nwmlaSm9_NDBS)<br>
+This video tells you some simple guides to be safer on the internet. The guy in the video is pretty funny so it will be quite an entertaining 9-minute-watch.
+3. [C in 100 Seconds](https://youtu.be/U3aXWizDbQ4?si=W-kHRDko7FQ6KoFM)<br>
+This video sums up C language in 100 seconds. It's a good video to get you interested in learning the C language. It explains the bases of how the language works and how it differs from other programming language, also the uses of the C language. Humor comes in when you least expected it, it's pretty fun.
+<br>
