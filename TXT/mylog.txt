@@ -26,6 +26,12 @@ ZCZC W02 10 L03 GitHub related
 ZCZC W00 90 L05 QUIZ related including studying
 ZCZC W02 20 L08 OS Chat related with friend
 ZCZC W02 90 L11 Assignment 1 related
-ZCZC W02 30 L12 Assignment 2 related
+ZCZC W02 40 L12 Assignment 2 related
+ZCZC W02 50 L13 Assignment 3 related
+ZCZC W02 20 L14 Assignment 4 related
+ZCZC W02 10 L15 Assignment 5 related
+ZCZC W02 15 L16 Assignment 6 related
+
+
 
 
