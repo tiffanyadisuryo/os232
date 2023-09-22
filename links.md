@@ -22,3 +22,12 @@ This video tells you some simple guides to be safer on the internet. The guy in 
 3. [C in 100 Seconds](https://youtu.be/U3aXWizDbQ4?si=W-kHRDko7FQ6KoFM)<br>
 This video sums up C language in 100 seconds. It's a good video to get you interested in learning the C language. It explains the bases of how the language works and how it differs from other programming language, also the uses of the C language. Humor comes in when you least expected it, it's pretty fun.
 <br>
+
+### **Week 03**
+1. [🔥 FUSE - what? why? where? | Eva Osherovsky](https://youtu.be/1zvOdR02hk4?si=ca1NlNT3mBqjwGI4)<br>
+The title probably explains what the video is about. It explains FUSE in a fun light way. I learnt the uses of FUSE is more than i innitially thought. It shows a couple of fun examples that makes me want to try and learn more about FUSE.
+2. [File System Concept](https://youtu.be/mzUyMy7Ihk0?si=-eJL6fHXuL8Y5zH6)<br>
+This video by Udacity explains what file system is and pictures a tree diagram of it. It also tells you the key abstractions of the file system.
+3. [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM?si=LFXHFzz0n_Be4AiB)<br>
+This 12-minute-video explains the file system in a very detailed way. It explains how it originates, the problems that led to the process of making the file system.
+<br>
