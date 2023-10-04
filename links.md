@@ -31,3 +31,12 @@ This video by Udacity explains what file system is and pictures a tree diagram o
 3. [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM?si=LFXHFzz0n_Be4AiB)<br>
 This 12-minute-video explains the file system in a very detailed way. It explains how it originates, the problems that led to the process of making the file system.
 <br>
+
+### **Week 04**
+1. [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=eesOOvuWVjFnnVJi)<br>
+This video explains the logic and syntax of pointers in C. The explanation is pretty clear and easy to understand. It has memes so that's fun.
+2. [Static vs. Shared Libraries](https://youtu.be/-vp9cFQCQCo?si=Djmyl7qU6v5yyE4b)<br>
+This video explains the difference between static and shared libraries. It also shows some examples and application.
+3. [Learn C memory addresses in 7 minutes 📬](https://youtu.be/1KVpi0VN82E?si=bj6pNnTdjV-EMjSn)<br>
+This video tells you how adressing memory in C works. It's pretty straight to the point.
+<br>

@@ -10,6 +10,7 @@ ZCZC W00 40 L05 QUIZ related including studying
 ZCZC W00 10 L09 Weekly Assignments related
 ZCZC W00 60 L15 Reading Assignments
 ZCZC W00 40 L30 Watched "Operating Systems: Visual Metaphor" at Udacity
+
 ZCZC W01 20 L00 General, etc.
 ZCZC W01 10 L01 SCELE related
 ZCZC W01 200 L02 CLASSROOM related
@@ -19,6 +20,7 @@ ZCZC W01 300 L11 Assignment 1 related (including fixing errors)
 ZCZC W01 30 L12 Assignment 2 related
 ZCZC W01 20 L13 Assignment 3 related
 ZCZC W01 10 L14 Assignment 4 related
+
 ZCZC W02 20 L00 General, etc.
 ZCZC W02 10 L01 SCELE related
 ZCZC W02 200 L02 CLASSROOM related
@@ -31,6 +33,7 @@ ZCZC W02 50 L13 Assignment 3 related
 ZCZC W02 20 L14 Assignment 4 related
 ZCZC W02 10 L15 Assignment 5 related
 ZCZC W02 15 L16 Assignment 6 related
+
 ZCZC W03 20 L00 General, etc.
 ZCZC W03 90 L01 SCELE related including POP QUIZ
 ZCZC W03 200 L02 CLASSROOM and online meeting related
@@ -41,4 +44,13 @@ ZCZC W03 50 L11 Assignment 1 related
 ZCZC W03 20 L12 Assignment 2 related
 ZCZC W03 90 L13 Assignment 3 related including debugging
 ZCZC W03 70 L14 Assignment 4 related
+
+ZCZC W04 20 L00 General, etc.
+ZCZC W04 90 L01 SCELE related including POP QUIZ
+ZCZC W04 100 L02 CLASSROOM related
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 20 L08 OS Chat related with friend
+ZCZC W04 60 L11 Assignment 1 related
+ZCZC W04 20 L12 Assignment 2 related
+ZCZC W04 90 L13 Assignment 3 related
 
