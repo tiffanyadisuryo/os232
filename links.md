@@ -40,3 +40,12 @@ This video explains the difference between static and shared libraries. It also 
 3. [Learn C memory addresses in 7 minutes 📬](https://youtu.be/1KVpi0VN82E?si=bj6pNnTdjV-EMjSn)<br>
 This video tells you how adressing memory in C works. It's pretty straight to the point.
 <br>
+
+### **Week 05**
+1. [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ?si=OxgccFpXyJOAzV8c)<br>
+In this video Gary explains what virtual memory is. It provides a lot of information and Gary is a pretty solid dude.
+2. [What is Virtual Memory? What Does it Do?](https://youtu.be/qeOBEOBJREs?si=GzjJBTKlWPQhvxQ_)<br>
+Now with this video, it's much more efficient. It's short and simple, so it's easy to understand.
+3. [What Is Virtual Memory? by Dave Xiang](https://youtu.be/PCykFmyb7vY?si=VJz7qmKEUOiwkLxc)<br>
+And we're back with Dave Xiang. He's very good at explaining things straight to the point.
+<br>
