@@ -58,7 +58,7 @@ ZCZC W05 20 L00 General, etc.
 ZCZC W05 150 L01 SCELE related including POP QUIZ
 ZCZC W05 200 L02 CLASSROOM related
 ZCZC W05 10 L03 GitHub related
-ZCZC W00 60 L05 QUIZ related including studying
+ZCZC W05 60 L05 QUIZ related including studying
 ZCZC W05 30 L08 OS Chat related with friend
 ZCZC W05 60 L11 Assignment 1 related
 ZCZC W05 20 L12 Assignment 2 related
