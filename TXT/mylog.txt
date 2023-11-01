@@ -65,3 +65,13 @@ ZCZC W05 20 L12 Assignment 2 related
 ZCZC W05 15 L13 Assignment 3 related
 ZCZC W05 40 L14 Assignment 4 related
 ZCZC W05 40 L15 Assignment 5 related
+
+ZCZC W06 20 L00 General, etc.
+ZCZC W06 150 L01 SCELE related including POP QUIZ
+ZCZC W06 100 L02 CLASSROOM related
+ZCZC W06 10 L03 GitHub related
+ZCZC W06 40 L08 OS Chat related with friend
+ZCZC W06 70 L11 Assignment 1 related
+ZCZC W06 20 L12 Assignment 2 related
+ZCZC W06 20 L13 Assignment 3 related
+ZCZC W06 60 L14 Assignment 4 related
