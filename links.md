@@ -49,3 +49,12 @@ Now with this video, it's much more efficient. It's short and simple, so it's ea
 3. [What Is Virtual Memory? by Dave Xiang](https://youtu.be/PCykFmyb7vY?si=VJz7qmKEUOiwkLxc)<br>
 And we're back with Dave Xiang. He's very good at explaining things straight to the point.
 <br>
+
+### **Week 06**
+1. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk?si=mulNo5bdqANDcG9l)<br>
+This video gives you a pretty solid information on Threads. It explains what threads are, the diagram, what it looks like, and the benefits of it.
+2. [Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems](https://youtu.be/O3EyzlZxx3g?si=8j-hX8f1dUXPpU3R)<br>
+It efficiently explains what process and threads are. It includes how they differ from each other.
+3. [Concurrency](https://youtu.be/xPiu2IzsGfY?si=Xri_C8u5s5AduBMp)<br>
+And we're back with Udacity (they're awesome). A short introduction to concurrency with fun animations.
+<br>
