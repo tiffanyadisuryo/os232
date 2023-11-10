@@ -58,3 +58,12 @@ It efficiently explains what process and threads are. It includes how they diffe
 3. [Concurrency](https://youtu.be/xPiu2IzsGfY?si=Xri_C8u5s5AduBMp)<br>
 And we're back with Udacity (they're awesome). A short introduction to concurrency with fun animations.
 <br>
+
+### **Week 07**
+1. [Mutex vs Synchronization](https://youtu.be/jkRN9zcLH1s?si=-Df-0Br-qXPEIHyI)<br>
+As always Udacity came through with a brilliant video. It's pretty brief but clear about the difference between Mutex and Synchronization.
+2. [Deadlock in Operating System | GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=MF-zz4F_Cyy5S9M5)<br>
+And now it's a video from the legendary GeeksforGeeks. It gives a good introduction for Deadlock and doesn't take up a lot of time.
+3. [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://youtu.be/UVo9mGARkhQ?si=tG2xR0yGIRori24_)<br>
+Now this video is longer than the videos before. It gives a thorough explanation on Deadlock, its conditions and handlings.
+<br>

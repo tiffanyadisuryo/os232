@@ -70,9 +70,20 @@ ZCZC W06 20 L00 General, etc.
 ZCZC W06 150 L01 SCELE related including POP QUIZ
 ZCZC W06 200 L02 CLASSROOM related
 ZCZC W06 10 L03 GitHub related
-ZCZC W05 60 L05 QUIZ related including studying
+ZCZC W06 60 L05 QUIZ related including studying
 ZCZC W06 60 L08 OS Chat related with friend
 ZCZC W06 70 L11 Assignment 1 related
 ZCZC W06 20 L12 Assignment 2 related
 ZCZC W06 20 L13 Assignment 3 related
 ZCZC W06 60 L14 Assignment 4 related
+
+ZCZC W07 20 L00 General, etc.
+ZCZC W07 100 L01 SCELE related including POP QUIZ
+ZCZC W07 100 L02 CLASSROOM related
+ZCZC W07 10 L03 GitHub related
+ZCZC W07 100 L05 QUIZ related including studying
+ZCZC W07 80 L08 OS Chat related with friend
+ZCZC W07 90 L11 Assignment 1 related
+ZCZC W07 20 L12 Assignment 2 related
+ZCZC W07 40 L13 Assignment 3 related
+ZCZC W07 70 L14 Assignment 4 related
