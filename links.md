@@ -67,3 +67,13 @@ And now it's a video from the legendary GeeksforGeeks. It gives a good introduct
 3. [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://youtu.be/UVo9mGARkhQ?si=tG2xR0yGIRori24_)<br>
 Now this video is longer than the videos before. It gives a thorough explanation on Deadlock, its conditions and handlings.
 <br>
+
+### **Week 08**
+1. [CPU Scheduling Basics](https://youtu.be/Jkmy2YLUbUY?si=3bvRj71KuGNHXgfF)<br>
+This video explains the bases of CPU Scheduling. It's thorough and easy to understand.
+2. [Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=hfU3lF48zx-Rm4vf)<br>
+This video explains what process scheduling is. It also shows how it works and it's correlation with queues.
+3. [Scheduling Algorithms = First Come First Served (FCFS)](https://youtu.be/7DoP1L9nAAs?si=hv-Q1i4PBG4TLoE_)<br>
+This video gives an example of first come first serve or queue data structure. And its correlation with scheduling.
+<br>
+
