@@ -77,3 +77,11 @@ This video explains what process scheduling is. It also shows how it works and i
 This video gives an example of first come first serve or queue data structure. And its correlation with scheduling.
 <br>
 
+### **Week 09**
+1. [Why Systemd is the Devil but I Love It](https://youtu.be/hc7J-zWEty8?si=Atf03aSjFJeTLRKt)<br>
+In all honesty, i watched the video because i relate with the "Systemd is the Devil" part of the title. But this video makes me understand the "but I love it" part of it.
+2. [Bootloading 101](https://youtu.be/Jcan8YfLfLs?si=hx8eBIdwBLBhFLWB)<br>
+This video contains the explanation of what a bootloader is, where they are, their typical execution flow, and advanced functionality. It's a handful of good information about bootloading.
+3. [What Makes ALL Your Electronics Work - Firmware Explained](https://youtu.be/3YfZcNUhBKY?si=cGLZbXwgC6o1RYLB)<br>
+This video is pretty fun because of its animation. It explains briefly what a dirmware is and connects it to what we already know about operating system.
+<br>

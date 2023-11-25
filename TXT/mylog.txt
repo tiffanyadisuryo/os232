@@ -97,3 +97,14 @@ ZCZC W08 80 L11 Assignment 1 related
 ZCZC W08 20 L12 Assignment 2 related
 ZCZC W08 200 L13 Assignment 3 related
 ZCZC W08 70 L14 Assignment 4 related
+
+ZCZC W09 20 L00 General, etc
+ZCZC W09 40 L01 SCELE related including POP QUIZ
+ZCZC W09 100 L02 CLASSROOM related
+ZCZC W09 10 L03 GitHub related
+ZCZC W09 100 L05 QUIZ related including studying
+ZCZC W09 100 L08 OS Chat related with friend
+ZCZC W09 90 L11 Assignment 1 related
+ZCZC W09 10 L12 Assignment 2 related
+ZCZC W09 300 L13 Assignment 3 related
+ZCZC W09 90 L14 Assignment 4 related
