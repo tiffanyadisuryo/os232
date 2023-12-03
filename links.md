@@ -85,3 +85,9 @@ This video contains the explanation of what a bootloader is, where they are, the
 3. [What Makes ALL Your Electronics Work - Firmware Explained](https://youtu.be/3YfZcNUhBKY?si=cGLZbXwgC6o1RYLB)<br>
 This video is pretty fun because of its animation. It explains briefly what a dirmware is and connects it to what we already know about operating system.
 <br>
+
+### **Week 10**
+1. [How to build Linux From Scratch (LFS) ENTIRE PLAYLIST](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)<br>
+This video deserves all the hype. It's so useful and guides you every step of the way!
+2. [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+This book gives you the step by step. So, this is the end, so long. Remember you are not cbkadal!
